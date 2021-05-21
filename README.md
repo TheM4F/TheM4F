@@ -7,7 +7,7 @@
 2.5 - 3 yıla yakındır yazılımla içli dışlıyım, bana yazılımı sevdiren ve her zaman destekçim olan [Toasty](https://github.com/kedi)'e teşekkürlerimi sunuyorum :)
 Grafik tasarım 1. sınıf öğrencisiyim hâlâ da kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
 
-![](https://komarev.com/ghpvc/?username=TheM4F)
+![](https://komarev.com/ghpvc/?username=TheM4F&label=Profil_Görüntülenmesi)
 
 <h3>Bana ulaşabileceğiniz platformlar!</h3>
 <p align="left">
