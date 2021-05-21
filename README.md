@@ -9,7 +9,7 @@ Grafik tasarım 1. sınıf öğrencisiyim hâlâ da kendimi geliştirmekteyim , 
 
 ![](https://komarev.com/ghpvc/?username=TheM4F&label=Ziyaretçi_sayısı&color=AF00B2)
 
-<h3>Bana ulaşabileceğiniz platformlar!</h3>
+<img src="https://cdn.discordapp.com/emojis/753922390689316924.gif?v=1" width="20px"> <h3>Bana ulaşabileceğiniz platformlar!</h3>
 <p align="left">
      <a href="https://instagram.com/ism4f" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
        <a href="https://twitter.com/ism4f" target"blank_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
