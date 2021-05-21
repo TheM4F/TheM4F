@@ -1,7 +1,7 @@
 ## Merhaba Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-<img src="https://cdn.discordapp.com/emojis/635255773483630592.gif?v=1" width="20px">   Tekrardan herkese selam!
+🎉 Tekrardan herkese selam!
 
 - Kendimden biraz bahsedeyim. Ben Mustafa namı diğer [TheM4F(Mef)](https://github.com/TheM4F) 18 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur. 
 2.5 - 3 yıla yakındır yazılımla içli dışlıyım, bana yazılımı sevdiren ve her zaman destekçim olan [Toasty](https://github.com/kedi)'e teşekkürlerimi sunuyorum :)
@@ -9,7 +9,7 @@ Grafik tasarım 1. sınıf öğrencisiyim hâlâ da kendimi geliştirmekteyim , 
 
 ![](https://komarev.com/ghpvc/?username=TheM4F&label=Ziyaretçi_sayısı&color=AF00B2)
 
-<h3><img src="https://cdn.discordapp.com/emojis/753922390689316924.gif?v=1" width="30px"> Bana ulaşabileceğiniz platformlar!</h3>
+<h3>🌟 Bana ulaşabileceğiniz platformlar!</h3>
 <p align="left">
      <a href="https://instagram.com/ism4f" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
        <a href="https://twitter.com/ism4f" target"blank_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
