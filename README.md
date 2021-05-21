@@ -1,5 +1,14 @@
-![](https://komarev.com/ghpvc/?username=TheM4F)
+## Merhaba Github! :wave:
 
+
+🎊 Tekrardan herkese selam!
+
+- Merhaba Github! 
+Kendimden biraz bahsedeyim. Ben Mustafa namı diğer TheM4F(Mef) 18 yaşındayım, öğrenmeye gelişmeye her zaman aç birisiyim. 
+2.5 - 3 yıla yakındır yazılımla içli dışlıyım, bana yazılımı sevdiren ve her zaman destekçim olan [Toasty](https://github.com/kedi)'e teşekkürlerimi sunuyorum :)
+Grafik tasarım 1. sınıf öğrencisiyim hâlâ da kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
+
+![](https://komarev.com/ghpvc/?username=TheM4F)
 
 <h3>My accounts</h3>
 <p align="left">
