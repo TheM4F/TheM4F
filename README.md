@@ -1,7 +1,7 @@
 ## Merhaba Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-<img src="https://cdn.discordapp.com/emojis/580593576929656833.gif?v=1" width="20px">   Tekrardan herkese selam!
+<img src="https://cdn.discordapp.com/emojis/635255773483630592.gif?v=1" width="20px">   Tekrardan herkese selam!
 
 - Kendimden biraz bahsedeyim. Ben Mustafa namı diğer [TheM4F(Mef)](https://github.com/TheM4F) 18 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur. 
 2.5 - 3 yıla yakındır yazılımla içli dışlıyım, bana yazılımı sevdiren ve her zaman destekçim olan [Toasty](https://github.com/kedi)'e teşekkürlerimi sunuyorum :)
