@@ -7,8 +7,7 @@
 2.5 - 3 yıla yakındır yazılımla içli dışlıyım, bana yazılımı sevdiren ve her zaman destekçim olan [Toasty](https://github.com/kedi)'e teşekkürlerimi sunuyorum :)
 Grafik tasarım 1. sınıf öğrencisiyim hâlâ da kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
 
-[![Ziyaretçi Sayısı](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheM4F&count_bg=%23552B75&title_bg=%232B2B2B&icon=github.svg&icon_color=%23E7E7E7&title=Ziyaret%C3%A7i&edge_flat=true)](https://hits.seeyoufarm.com)
-
+<img src="https://komarev.com/ghpvc/?username=TheM4F&label=Ziyaretçi&color=552b75" alt="TheM4F" />
 <h3>🌟 Sosyal medya hesaplarım!</h3>
 <p align="left">
      <a href="https://instagram.com/ism4f" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
