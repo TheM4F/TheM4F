@@ -7,6 +7,8 @@
 2.5 - 3 yıla yakındır yazılımla içli dışlıyım, bana yazılımı sevdiren ve her zaman destekçim olan [Toasty](https://github.com/kedi)'e teşekkürlerimi sunuyorum :)
 Grafik tasarım 1. sınıf öğrencisiyim hâlâ da kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
 
+- Yoksa hâlâ [Codesty](https://codesty.org/team) ekibinin geliştirmekte olduğu [Codesty](https://codesty.org)'e göz atmadın mı ?
+
 <img src="https://komarev.com/ghpvc/?username=TheM4F&label=Ziyaretçi%20Sayısı&color=552b75" alt="TheM4F" />
 <h3>🌟 Sosyal medya hesaplarım!</h3>
 <p align="left">
