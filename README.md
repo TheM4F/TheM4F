@@ -9,7 +9,7 @@ Grafik tasarım 1. sınıf öğrencisiyim hâlâ da kendimi geliştirmekteyim , 
 
 - Sizi [Codesty](https://codesty.org/team) ekibinin geliştirmekte olduğu [Codesty](https://codesty.org)'e bekliyoruz! 
 
-![Ziyaretçi Sayısı](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TheM4F/&title=Ziyaretçi%20Sayısı)
+![](https://komarev.com/ghpvc/?username=TheM4F&label=Profil_Görüntülenmesi&color=552b75)
 
 
 <h3>🌟 Sosyal medya hesaplarım!</h3>
