@@ -12,6 +12,11 @@ Grafik tasarım 1. sınıf öğrencisiyim hâlâ da kendimi geliştirmekteyim , 
 - Kişisel blogumu [ziyaret](https://them4f.me) edebilirsin!
 
 <img src="https://komarev.com/ghpvc/?username=TheM4F&label=Ziyaretçi%20Sayısı&color=552b75" alt="TheM4F" />
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323301869319618560?theme=light&bg=809ecf&animated=false&hideDiscrim=true)](https://discord.com/users/323301869319618560)
+
+
 <h3>🌟 Sosyal medya hesaplarım!</h3>
 <p align="left">
      <a href="https://instagram.com/ism4f" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
