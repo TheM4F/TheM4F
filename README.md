@@ -23,6 +23,7 @@ Grafik tasarım 1. sınıf öğrencisiyim hâlâ da kendimi geliştirmekteyim , 
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323301869319618560?dark=light&bg=18191c&animated=true&hideDiscrim=true)](https://discord.com/users/323301869319618560)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323301869319618560?theme=light&bg=18191c&animated=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/323301869319618560)
+
      
 </p>
