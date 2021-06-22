@@ -22,12 +22,7 @@ Grafik tasarım 1. sınıf öğrencisiyim hâlâ da kendimi geliştirmekteyim , 
  <a href="https://open.spotify.com/user/nmx6xocb1zju8ee281ppng20g?si=1f85152e4e854514" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 
-<div align="center">
-   <a href="https://discord.com/users/323301869319618560" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/323301869319618560?dark=light&bg=18191c">
-   </a>
-</div>
-     
-     
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323301869319618560?dark=light&bg=18191c&animated=true&hideDiscrim=true)](https://discord.com/users/323301869319618560)
      
 </p>
