@@ -5,7 +5,7 @@
 
 - Kendimden biraz bahsedeyim. Ben Mustafa namı diğer [TheM4F(Mef)](https://github.com/TheM4F) 20 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur. 
 3 - 3.5 yıla yakındır yazılımla içli dışlıyım.
-Grafik tasarım 2. sınıf öğrencisiyim hâlâ da kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
+- Grafik tasarım 2. sınıf öğrencisiyim hâlâ da kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
 
 - Yoksa hâlâ [Codesty](https://codesty.org/team) ekibinin geliştirmekte olduğu [Codesty](https://codesty.org)'e göz atmadın mı ?
 
