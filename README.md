@@ -3,7 +3,7 @@
 
 🎉 Tekrardan herkese selam!
 
-- Kendimden biraz bahsedeyim. Ben Mustafa namı diğer [TheM4F(Mef)](https://github.com/TheM4F) 20 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur.
+- Kendimden biraz bahsedeyim. Ben Mustafa namı diğer [TheM4F(Mef)](https://github.com/TheM4F) 21 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur.
 Tasarım ile 6 yazılım ile 3 - 3.5 yıla yakındır içli dışlıyım.
 
 - Bolu Abant İzzet Baysal Üniversitesi Grafik Tasarım bölümünden bölüm 1.si olarak mezunum hâlâ da kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim.
@@ -19,6 +19,6 @@ Tasarım ile 6 yazılım ile 3 - 3.5 yıla yakındır içli dışlıyım.
  <a href="https://open.spotify.com/user/nmx6xocb1zju8ee281ppng20g?si=1f85152e4e854514" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
     
    
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/880603119740919879?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/880603119740919879)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/234843285481324554?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/234843285481324554)
      
 </p>
